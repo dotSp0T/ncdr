@@ -14,15 +14,15 @@ import java.util.function.Consumer;
  * <p>Commands:
  * <dl>
  *     <dt>E something something phrase</dt>
- *     <dl>encodes the supplied phrase</dl>
+ *     <dd>encodes the supplied phrase</dd>
  *     <dt>D smthng smthng phrs</dt>
- *     <dl>decodes the supplied phrase</dl>
+ *     <dd>decodes the supplied phrase</dd>
  *     <dt>LOAD path/to/file.txt</dt>
- *     <dl>loads the contents of the supplied file into the dictionary</dl>
+ *     <dd>loads the contents of the supplied file into the dictionary</dd>
  *     <dt>STORE path/to/file.txt</dt>
- *     <dl>stores the dictionary into the supplied file</dl>
+ *     <dd>stores the dictionary into the supplied file</dd>
  *     <dt>BYE</dt>
- *     <dl>exits the application</dl>
+ *     <dd>exits the application</dd>
  * </dl>
  * 
  * @author Michael Stocker
